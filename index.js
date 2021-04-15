@@ -12,6 +12,7 @@ The function should:
   1. Receive values for the object that will be created as parameters
   2. Create and return an object using the received values 
   
+  
   Example createMenuItem('tacos', 8, 'Lunch') should return {name: 'tacos', price: 8, category: 'Lunch'}
 */
 
